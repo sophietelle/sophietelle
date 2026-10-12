@@ -1,3 +1,6 @@
+> **REMINDER**
+> If you are confused by this README - try checking out the other version of it, [README_old.md](README_old.md).
+
 _Jahrelange Arbeit, ja, ich hab' mir zu viel Kopf gemacht_<br>_Das Einzige, was sich verändert hat, ja, ist mein Kontostand_
 
 Official cshot Code Committee Member<br>
